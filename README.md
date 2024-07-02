@@ -21,6 +21,10 @@ Input data is given in JSON file. Performed operations are given in that file. I
 ```
 All operations are ordered by their date ascendingly.
 
-1. In order to calculate data you should provide a path for an input file. Then run the following command ```npm run calc```. Project already has the input.json file in the root of project.
+1. In order to calculate data you should provide a path for an input file. Then run the following command:
+```npm run calc```
+Project already has the input.json file in the root of project.
 
-2. Run tests ```npm run test```.
+2. Run tests
+```npm run test```
+
